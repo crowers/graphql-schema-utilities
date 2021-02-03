@@ -1,5 +1,5 @@
 {
-  "name": "graphql-schema-utilities-v2",
+  "name": "@crowers/graphql-schema-utilities",
   "version": "1.1.4",
   "description": "Merge GraphQL Schema files and validate queries against the merged Schema",
   "repository": {
