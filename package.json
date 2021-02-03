@@ -29,6 +29,9 @@
   "bin": {
     "graphql-schema-utilities": "./dist/cli-launcher.js"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "GraphQL",
     "Schema stitching",
